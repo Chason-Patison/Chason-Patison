@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Chason Patison
 - 👀 I’m interested in Front/Backend Web Development
-- 🌱 I’m currently learning Javascript and Ruby
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me email: Chason.Patison1@gmail.com
